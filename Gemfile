@@ -13,8 +13,6 @@
 
 source 'http://rubygems.org'
 
-gem 'cf-uaa-lib', '~> 1.3.7'
-
 gemspec
 
 group :example do
